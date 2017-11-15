@@ -1,7 +1,5 @@
 node ('int-jenkinsnode') {
     
- notify('Started')
- 
  stage ('SCM_Checkout') {
     checkout([$class: 'GitSCM',
         branches: [[name: '*/master']],
