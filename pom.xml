@@ -449,12 +449,12 @@
     <repository>
         <id>central</id>
         <name>jenkinsnodeartifactoy-releases</name>
-        <url>http://35.244.60.178:8081/artifactory/jenkinsartifactoryInt</url>
+        <url>http://35.244.57.122:8081/artifactory/jenkinsartifactoryInt</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>jenkinsnodeartifactoy-snapshots</name>
-        <url>http://35.244.60.178:8081/artifactory/jenkinsartifactoryInt</url>
+        <url>http://35.244.57.122:8081/artifactory/jenkinsartifactoryInt</url>
     </snapshotRepository>
 </distributionManagement>
     <url>demopetclinic</url>
